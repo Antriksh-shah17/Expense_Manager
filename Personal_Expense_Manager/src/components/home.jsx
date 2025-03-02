@@ -60,7 +60,7 @@ function MainPage() {
         <div className="home">
           <div className="info">
             <h1 className="animate-text" style={{ color: strongColor }} onMouseOut={change1}>
-              Track Your <span id='span' onMouseOver={change} style={{ color: spanColor }}>Finance</span>
+              Track Your <span id='span' onMouseOver={change} style={{ color: spanColor }}> Expense</span>
             </h1>
             <h2 className="animate-text">"Save money and money will save you."</h2>
 
