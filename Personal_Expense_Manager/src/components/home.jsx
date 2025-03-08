@@ -128,8 +128,13 @@ function MainPage() {
             Welcome to <strong>CashControl</strong>, a personal finance manager designed to help you track and manage your expenses easily.
           </p>
           <p>
-            Our goal is to make personal finance management simpler, allowing you to stay on top of your spending and savings.
-            You can add daily expenses, track your spending habits, and plan your budget effectively.
+          "Our goal is to make personal finance management simpler, allowing you to stay on top of your spending and savings.
+
+    With CashControl, you can effortlessly log daily expenses, categorize transactions, and gain insights into your spending habits. Our intuitive interface helps you track where your money goes, ensuring better financial discipline and smarter budgeting.
+
+By setting monthly budgets and financial goals, you can monitor your progress and make informed decisions to reduce unnecessary expenses and increase savings. Our real-time analytics and visual reports provide a clear breakdown of your spending patterns, empowering you to take control of your finances.
+
+Whether you're planning for short-term needs or long-term financial stability, CashControl equips you with the right tools to achieve financial freedom. Start managing your finances today and build a secure financial future with ease!"
           </p>
           
           <p>Thank you for choosing <strong>CashControl</strong>. We hope it helps you take control of your financial future!</p>
@@ -146,13 +151,13 @@ function MainPage() {
           <h1>Contact Us</h1>
           <label>Name</label>
           <input type="text" placeholder="Your Name" />
-
+          <br/>
           <label>Email</label>
           <input type="email" placeholder="Your Email" />
-
+          <br/>
           <label>Message</label>
           <textarea placeholder="Your Message"></textarea>
-
+          <br/>
           <button type="submit">Send Message</button>
         </form>
       </section>
